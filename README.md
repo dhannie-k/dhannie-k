@@ -7,7 +7,7 @@
 - 🙂 Pronounce: He/Him
 
 ### Tools & Language
-<img src = "./assets/vscode-original.svg" width = "24"> <img src = "./assets/dart.svg" width = "24"> <img src = "./assets/flutter.svg" height = "24"> <img src = "./assets/xd-plain.svg" width = "24"> <img src = "./assets/illustrator_24px.png" width = "24"> <img src = "./assets/git.svg" width = "24"> <img src = "./assets/github.svg" width = "24">
+<img src = "./assets/vscode-original.svg" width = "24"> <img src = "./assets/dart.svg" width = "24"> <img src = "./assets/flutter.svg" height = "24"> <img src = "./assets/firebase.svg" width = "24"> <img src = "./assets/xd-plain.svg" width = "24"> <img src = "./assets/illustrator_24px.png" width = "24"> <img src = "./assets/git.svg" width = "24"> <img src = "./assets/github.svg" width = "24">
 
 
 
